@@ -1,5 +1,14 @@
+New Text New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew Text New Text New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew Text New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew Text New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNewC TextNew TextNew TextNewC TextNewC Text New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew Text
 
-Step 1. Set up the Development Environment
+
+
+New Text New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew Text New Text New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew Text New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNewB TextNew TextNew TextNew TextNew Text New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNewB TextNew Text New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew Text
+
+ Step 2. Create a new project
+
+Open a terminal window.
+
+Generate a new project and default app by running the following command:
 
 You need to set up your development environment before you can do anything.
 
